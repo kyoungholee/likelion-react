@@ -14,3 +14,5 @@ React 라이브러리 코드가 웹 브라우저 환경에서 어떻게 해석�
 
 - React 및 ReactDOM API 활용
 - 가상(Virtual) 노드 vs. 실제(Actual) DOM 노드
+
+- 테스트 입니다.
